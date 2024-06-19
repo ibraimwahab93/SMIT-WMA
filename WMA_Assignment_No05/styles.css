@@ -1,0 +1,57 @@
+* {
+    background-color: aqua;
+    border-radius: 2cm;
+}
+#top {
+    width: 4cm;
+}
+table {
+    text-align: center;
+    width: 15cm;
+}
+
+#lightblue {
+    background-color: rgb(139, 159, 226) ;
+}
+#lightblue2 {
+    background-color: rgb(168, 178, 223) ;
+}
+#lightblue3 {
+    background-color: rgb(196, 171, 224);
+}
+#lightblue4 {
+    background-color: rgb(198, 175, 224);
+}
+#lightblue5 {
+    background-color: rgb(204, 185, 226);
+}
+#lightblue6 {
+    background-color: rgb(209, 192, 228);
+}
+#lightblue7 {
+    background-color: rgb(214, 204, 226);
+}
+#lightgreen {
+    background-color:rgb(67, 214, 67) ;
+}
+#lightred {
+    background-color: rgb(241, 204, 204);
+}
+#lightred2 {
+    background-color: rgb(236, 189, 189);
+}
+#lightred3 {
+    background-color: rgb(235, 154, 154);
+}
+#lightred4 {
+    background-color: rgb(241, 143, 143);
+}
+#lightred5 {
+    background-color: rgb(245, 124, 124);
+}
+#lightred6 {
+    background-color: rgb(238, 87, 87);
+}
+#lightred7 {
+    background-color: rgb(230, 28, 28);
+}
