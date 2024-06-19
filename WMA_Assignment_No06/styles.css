@@ -1,0 +1,67 @@
+* {
+    background-color: aqua;
+}
+#red {
+    border: solid;
+    border-color: red;
+    border-radius: 2cm ;
+}
+#red:hover {
+    background-color: red;
+}
+#green {
+    border: solid;
+    border-color: green;
+    border-radius: 2cm ;
+}
+#green:hover {
+    background-color: green;
+}
+#blue {
+    border: solid;
+    border-color: blue;
+    border-radius: 2cm ;
+}
+#blue:hover {
+    background-color: blue;
+}
+
+@font-face {
+    font-family: Caveat;
+    src: url(fonts/Caveat-Bold.ttf);
+  }
+  @font-face {
+    font-family: Danfo;
+    src: url(fonts/Danfo-Regular.ttf);
+  }
+  @font-face {
+    font-family: PlaywriteIS;
+    src: url(fonts/PlaywriteIS-Regular.ttf);
+  }
+  @font-face {
+    font-family: PlaywriteNL;
+    src: url(fonts/PlaywriteNL-Regular.ttf);
+  }
+  @font-face {
+    font-family: Tiny5;
+    src: url(fonts/Tiny5-Regular.ttf);
+  }
+  
+  #Caveat {
+    font-family: Caveat;
+  }
+  #Danfo {
+    font-family: Danfo;
+  }
+  
+  #PlaywriteIS {
+    font-family: PlaywriteIS;
+  }
+
+  #PlaywriteNL {
+    font-family: PlaywriteNL;
+  }
+
+  #Tiny5 {
+    font-family: Tiny5;
+  }
